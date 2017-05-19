@@ -37,3 +37,7 @@ nav span {
 a {
   color: black;
 }
+
+div {
+  border: 1px solid black;
+}
